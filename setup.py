@@ -45,7 +45,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/balerdius/zplimage',
+    url='https://github.com/balerdius/zpl',
 
     # Author details
     author='Javier Balerdi',
